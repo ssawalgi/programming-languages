@@ -11,7 +11,7 @@ num2 = 5
 sum = num1 + num2
 print(sum)
 
-#Alternate way
+#Alternate way - create function
 def sum(num1, num2):
     return(num1+num2)
 
