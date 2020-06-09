@@ -4,7 +4,7 @@ def greet( name ):
 name= input("Whats your name?")    
 greet(name)
 
-def addFive(x):
+def addSix(x):
     print(5 +  x)
 
 addFive(5)
